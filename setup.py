@@ -8,10 +8,10 @@ setuptools.setup(
     version="0.0.1",
     author="Matthew Auld",
     author_email="matthew@matthewauld.ca",
-    description="package used to scrape development application from City of Ottawa's development search tools",
+    description="package used to scrape development application from City of Ottawa's development search tools, and convert it into geoJSON data",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="tbd",
+    url="https://github.com/matthewauld/devappscraper",
     packages=['devappscraper'],
     install_requires=[
     'bs4==0.0.1',
