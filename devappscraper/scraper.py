@@ -121,7 +121,7 @@ def parse_application(url):
 
     #Insert status
 
-    result['status'] = [[status,date]]
+    result['status'] = {"type":status,"date":date}
     return result
 
 

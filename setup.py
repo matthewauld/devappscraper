@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="devappscraper",
-    version="0.0.1",
+    version="0.0.2",
     author="Matthew Auld",
     author_email="matthew@matthewauld.ca",
     description="package used to scrape development application from City of Ottawa's development search tools, and convert it into geoJSON data",
