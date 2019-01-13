@@ -138,4 +138,4 @@ def find_supporting_docs(tag):
 
 
 
-#x= parse_application('https://app01.ottawa.ca/postingplans/appDetails.jsf?lang=en&appId=__A1K4I5')
+x= parse_application('https://app01.ottawa.ca/postingplans/appDetails.jsf?lang=en&appId=__A1K4I5')

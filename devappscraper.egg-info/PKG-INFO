@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: devappscraper
+Version: 0.0.2
+Summary: package used to scrape development application from City of Ottawa's development search tools, and convert it into geoJSON data
+Home-page: https://github.com/matthewauld/devappscraper
+Author: Matthew Auld
+Author-email: matthew@matthewauld.ca
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Description-Content-Type: text/markdown

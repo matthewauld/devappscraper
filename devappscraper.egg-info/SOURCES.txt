@@ -1,0 +1,10 @@
+README.md
+setup.py
+devappscraper/__init__.py
+devappscraper/main.py
+devappscraper/scraper.py
+devappscraper.egg-info/PKG-INFO
+devappscraper.egg-info/SOURCES.txt
+devappscraper.egg-info/dependency_links.txt
+devappscraper.egg-info/requires.txt
+devappscraper.egg-info/top_level.txt
